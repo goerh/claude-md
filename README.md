@@ -5,7 +5,7 @@ My working agreements for [Claude Code](https://code.claude.com): a single `CLAU
 ## What's in it
 
 - **Foundation**: four rules against common LLM coding mistakes: think before coding, simplicity first, surgical changes, goal-driven execution.
-- **English in the code, Dutch with me**: code, docs and app texts in English; the conversation in Dutch.
+- **English in the code, my language in chat**: code, docs and app texts in English; the conversation in whatever language you write in.
 - **Starting a new project**: ask about platforms, language and how the program is started before writing any code.
 - **Make it public-repo ready**: `.gitignore`, README, declared dependencies, MIT license, and no secrets or personal data.
 - **Include tests**: tests for every feature or fix, checked with mutation testing.
@@ -28,7 +28,7 @@ Claude Code loads `CLAUDE.md` files automatically.
 
 Start a new session to pick up the file.
 
-Some rules are personal, such as the conversation language. Change those to suit you.
+Some rules are personal, such as using both macOS and Windows. Change those to suit you.
 
 Claude Code only imports local files (with `@path/to/file`), not URLs. That's why the Foundation section is copied in rather than linked.
 
