@@ -64,13 +64,13 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
 
-## English in the code, Dutch with me
+## English in the code, my language in chat
 
-Write code, comments, commit messages, READMEs and other documentation in **English**. That includes texts only I read, such as architecture notes. Our conversations stay in Dutch.
+Write code, comments, commit messages, READMEs and other documentation in **English**. That includes texts only I read, such as architecture notes. In our conversations, reply in the language I write in.
 
-The same goes for what a user sees in the app: buttons, messages and error texts in English. If an app is built for Dutch-speaking users, propose the platform's standard localization mechanism instead of hard-coding the texts in Dutch.
+The same goes for what a user sees in the app: buttons, messages and error texts in English. If an app is built for users who speak another language, propose the platform's standard localization mechanism instead of hard-coding the texts in that language.
 
-Don't convert existing Dutch texts on your own initiative — propose it first.
+Don't convert existing non-English texts on your own initiative — propose it first.
 
 ## Starting a new project
 
